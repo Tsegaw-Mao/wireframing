@@ -39,7 +39,7 @@ The Figmify: From Wireframe to Prototype project introduces learners to the esse
 - **Low-Fidelity Wireframes**: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 - **High-Fidelity Wireframes**: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 
-## [Example Wireframe link](https://example.com/path/to/file.txt)
+## [Example Wireframe link](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=YAo3dkGZw7Usc2dG-1)
 The Wireframe on the link above is a **High-Fidelity Wireframe** becasuse it is detailed and looks like the final version of the system to be developed. It includes specific layout and esign elements so its **High-Fidelity Wireframe**. 
 
 

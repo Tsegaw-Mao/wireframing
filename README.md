@@ -91,4 +91,52 @@ A wireframe of the search results page informs:
    - Frontend: Grid layout, pagination, or infinite scroll
    -  Backend: Query parameters for filtering and sorting  
    -  QA: Test cases based on visible elements and action
+## Wireframe in practice
+### Wireframing Uncovers Usability Issues in an E-Learning Platform
 
+**Project Context**
+A software team was tasked with building an e-learning platform for a university. The platform needed to allow students to view courses, track progress, take quizzes, and communicate with instructors. Before development began, the UX team created low-fidelity wireframes to map out the core screens: dashboard, course detail, quiz flow, and messaging center.
+
+---
+
+**Identifying Usability Issues**
+During a review session with instructors and students, several issues emerged from the wireframes:
+
+1. **Dashboard Overload**
+   The initial wireframe placed all course information, assignments, notifications, and messages on one page. Test users found it overwhelming and cluttered.
+
+2. **Quiz Navigation Confusion**
+   The quiz wireframe used a vertical scroll layout for multiple questions. Students worried about accidentally skipping questions or not knowing how many were left.
+
+3. **Messaging Flow Gap**
+   The messaging section didn't clearly differentiate between student-to-instructor and student-to-student conversations, which raised concerns about misdirected messages.
+
+---
+
+**Resolution Through Wireframe Iteration**
+
+* **Dashboard Redesign**
+  The team split the dashboard into tabs: "Courses", "Tasks", and "Messages". This reduced cognitive load and made the interface more focused.
+
+* **Quiz Flow Update**
+  A progress indicator with numbered question navigation was added at the top. Each question displayed on a separate screen with "Next" and "Previous" buttons, improving clarity.
+
+* **Messaging Enhancements**
+  The wireframe was updated with a contact selector and conversation filters, ensuring that users could clearly see whom they were communicating with.
+
+These changes were quickly made using wireframes, saving time and avoiding costly revisions during coding.
+
+---
+
+**Impact on the Final Product**
+The improvements led to:
+
+* A cleaner, easier-to-navigate user experience
+* Fewer support requests about navigation or messaging errors
+* Positive feedback from early student testers
+* A shorter development timeline due to fewer late-stage design fixes
+
+---
+
+**Conclusion**
+This scenario highlights how wireframing plays a crucial role in identifying usability issues before any code is written. It provides a safe, low-cost way to experiment with layout and functionality, gather feedback, and make design decisions that prioritize the user. By doing so, wireframing ensures the final product is not only functional but also intuitive and user-friendly.

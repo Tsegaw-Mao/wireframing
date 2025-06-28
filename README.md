@@ -42,4 +42,16 @@ The Figmify: From Wireframe to Prototype project introduces learners to the esse
 ## [Example Wireframe link](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=YAo3dkGZw7Usc2dG-1)
 The Wireframe on the link above is a **High-Fidelity Wireframe** becasuse it is detailed and looks like the final version of the system to be developed. It includes specific layout and esign elements so its **High-Fidelity Wireframe**. 
 
+## Discussing popular wireframing tools.
+In most cases, as a frontend developer in software development, you will receive a complete set of mockup designs from the UI/UX design team. These designs are usually well thought out, providing you with an idea of what the end product will look like and all the assets you will need for implementing the UI.
 
+There are several wireframing tools available(Figma, Adobe XD, Justinmind, Sketch, Moqups, Wix Studio, ...), most of which use the same underlying concepts. Figma is a great tool. Let’s take a moment to understand some wireframing basics.
+
+**Brief Overview features of Figma**:
+- **Real-time collaboration**
+- **Powerful vector editing**
+- **Prototyping**
+- **Design systems**
+- **Commenting and feedback**
+- **Version Control**
+- **Plugins and Integrations**
